@@ -2,8 +2,9 @@ language: python
 python:
   - 3.9
 install:
-  - pip install -q -r requirements-dev.txt
+  - pip install -q -r requirements-dev.txt codecov
 script:
   - flake8
-  - pytest github_avatar_catcher
-
+  - pytest github_avatar_catcher --cov=github_avatar_catcher
+after-success:
+  - codecov
