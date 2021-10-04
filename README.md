@@ -12,5 +12,5 @@ Codecover Integration status:\
 [![miguelangellus](https://circleci.com/gh/miguelangellus/github_avatar_catcher.svg?style=svg)](https://app.circleci.com/pipelines/github/miguelangellus/github_avatar_catcher/7/workflows/e3924b33-79c9-43d6-9185-59b1df14e6e9/jobs/15) \
 **Example:** \
 [![CircleCI](https://circleci.com/gh/miguelangellus/github_avatar_catcher.svg?style=shield)](https://circleci.com/gh/miguelangellus/github_avatar_catcher) \
-**Example for specific branch:** \
-[![CircleCI](https://circleci.com/gh/miguelangellus/github_avatar_catcher/tree/CircleCI.svg?style=svg)](https://circleci.com/gh/miguelangellus/github_avatar_catcher/?branch=CircleCI)
+**Example for specific branch:** main\
+[![CircleCI](https://circleci.com/gh/miguelangellus/github_avatar_catcher/tree/main.svg?style=svg)](https://circleci.com/gh/miguelangellus/github_avatar_catcher/?branch=main)
