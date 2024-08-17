@@ -2,7 +2,7 @@
 flake8==7.1.1
 mccabe==0.7.0
 pycodestyle==2.12.1
-pyflakes==2.4.0
+pyflakes==3.2.0
 
 # Pytest dependencies
 attrs==21.2.0
