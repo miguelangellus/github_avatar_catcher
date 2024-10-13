@@ -16,6 +16,6 @@ toml==0.10.2
 
 # pytest-cov section
 coverage==7.6.2
-pytest-cov==3.0.0
+pytest-cov==5.0.0
 
 -r requirements.txt
