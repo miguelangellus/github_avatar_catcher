@@ -6,7 +6,7 @@ pyflakes==3.4.0
 
 # Pytest dependencies
 attrs==26.1.0
-iniconfig==1.1.1
+iniconfig==2.3.0
 packaging==21.0
 pluggy==1.0.0
 py==1.10.0
